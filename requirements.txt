@@ -1,2 +1,2 @@
-python== 3.12.1
-Django==5.0.2
+python== 3.10.9
+Django==4.2.2
